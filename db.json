@@ -1,0 +1,9 @@
+{
+    "posts":[
+        {"id":1,"title":"JS post1","body":"helo im using next js"},
+        {"id":2,"title":"JS post2","body":"helo im using next js"},
+        {"id":3,"title":"JS post3","body":"helo im using next js"},
+        {"id":4,"title":"JS post4","body":"helo im using next js"},
+        {"id":5,"title":"JS post5","body":"helo im using next js"}
+    ]
+}
